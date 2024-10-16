@@ -33,4 +33,4 @@ I am a Full Stack Developer from Ukraine. <img src="https://media.giphy.com/medi
 -  In my profile you will find a project <a href="https://github.com/unpichugina/food-delivery-app">
     <img src="https://img.shields.io/badge/Food Delivery App-yellow?style=flat" alt="Youtube Badge"/></a> that I developed myself as part of the Python Pro сourse from the Hillel IT School. Just like my other drafts.
     
-- Please, feel free to contact me if you have ideas, suggestions or comments on my code. <img src="https://media.giphy.com/media/jVTkFo55fUIRUJsw3z/giphy.gif" width="40"> 
+ Please, feel free to contact me if you have ideas, suggestions or comments on my code. <img src="https://media.giphy.com/media/jVTkFo55fUIRUJsw3z/giphy.gif" width="40"> 
