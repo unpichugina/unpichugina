@@ -26,9 +26,9 @@
 
 ### About Me :
 
-I am a Junior Python Developer from Ukraine. <img src="https://media.giphy.com/media/mICujTpmbE1rtefgSJ/giphy.gif" width="30"> 
+I am a Full Stack Developer from Ukraine. <img src="https://media.giphy.com/media/mICujTpmbE1rtefgSJ/giphy.gif" width="30"> 
 
-- I have been learning Python and Django for a year. And now I'm extremely motivated to get on a real project.
+- Within a year, I learned a new craft for me and found my first job in IT. And for more than a year now I have been a full-time developer working with Python and Vue.js.
 
 -  In my profile you will find a project <a href="https://github.com/unpichugina/food-delivery-app">
     <img src="https://img.shields.io/badge/Food Delivery App-yellow?style=flat" alt="Youtube Badge"/></a> that I developed myself as part of the Python Pro сourse from the Hillel IT School. Just like my other drafts.
